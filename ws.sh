@@ -651,7 +651,7 @@ shadowsocks_ciphers_config() {
 install_info() {
 	clear
 	echo
-	echo " ....准备安装了咯..看看有毛有配置正确了..."
+	echo " ....准备安装了咯...."
 	echo
 	echo "---------- 安装信息 -------------"
 	echo
